@@ -1,0 +1,23 @@
+.rect1{
+    width: 700px;
+    height: 450px;
+    background-color: rgb(48, 139, 175);
+}
+    .rect2{
+     width: 55px;
+      height: 450px;
+      background-color: yellow;
+      position: relative;
+      bottom: 450px;
+      left: 200px;
+    
+    }
+
+    .rect3{
+        width: 700px;
+        height: 65px;
+        background-color: yellow;
+        position: relative;
+        bottom: 700px;
+    }
+
